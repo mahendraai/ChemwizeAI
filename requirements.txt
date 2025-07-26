@@ -1,0 +1,7 @@
+qiskit
+qiskit-optimization
+rdkit-pypi
+botorch
+gpytorch
+networkx
+matplotlib
