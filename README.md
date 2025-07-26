@@ -1,4 +1,4 @@
-# ChemwizeAI
+# ChemwizeAI by Mahendra Ribadiya founder of PhytozAI and QuantSafeAI (https://phytoz-ai.com)
 Qiskit with Bayesian Optimization (BO) for quantum-enhanced retrosynthesis is a powerful idea for drug discovery and chemical process design. Here's how this can be structured:
 
 🔬 Goal:
